@@ -16,7 +16,7 @@ The inout data consists of:
 |3501896170,92,10:00.0|LAX|DFW|LAXDFW|2|MSN|
 
 ##Output
-The outout is a nested map structure first grouped by source and destination, then by association, finally aggregate by PAX count
+The outout is a nested map structure first grouped by source and destination, then by association, finally aggregated by PAX count
 ```
 {
 LAXDFW={
